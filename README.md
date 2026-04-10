@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm asaf atzeypri</h1>
 <h3 align="center">A IT Specialist from Israel</h3>
 
-<h4 align="left">👯 I’m looking to Looking for a job in cyber, networking, or any challenging job</h4>
-<p align="left">
+<h4 align="center">👯 I’m looking for a job in cyber, networking, or any challenging job</h4>
+<p align="center">
 </p>
-<h4 align="left">⚡ Fun fact ** A Gamer and Knows Judo and is interested in psychology **</h4>
-<p align="left">
+<h4 align="center">⚡ Fun fact ** A Gamer and Knows Judo and is interested in psychology **</h4>
+<p align="center">
 </p>
 
 
